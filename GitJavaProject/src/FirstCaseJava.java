@@ -6,6 +6,7 @@ public class FirstCaseJava {
 System.out.println("welcome to java pgm");
 System.out.println("welcome to repo");
 System.out.println("on commit build run");
+		System.out.println("build edited by someome");
 	}
 
 }
