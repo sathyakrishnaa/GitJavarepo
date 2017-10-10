@@ -7,6 +7,7 @@ System.out.println("welcome to java pgm");
 System.out.println("welcome to repo");
 System.out.println("one commit build run");
 System.out.println("two commit build run");
+		System.out.println("build edited by someome");
 	}
 
 }
